@@ -118,7 +118,7 @@ Cores, tamanhos e DPI ficam em `PALETA` e `STYLE_CONFIG` no [`analise_vendas/con
 │   ├── dados.py          # leitura e preparação
 │   ├── visualizacoes.py  # gráficos dos 5 desafios
 │   ├── exportacao.py     # PNG/SVG/JPG e PDF consolidado
-│   └── formatacao.py     # formatadores de eixo (R$, kg)
+│   └── formatacao.py     # formatação em R$ e rótulos das barras
 ├── dados.xlsx            # planilha original do teste
 ├── dados_respondido.xlsx # planilha com as respostas
 └── docs/media/           # gráficos usados neste README
